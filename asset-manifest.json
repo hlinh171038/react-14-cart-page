@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-14-cart-page/static/css/main.6d2b4ff1.css",
+    "main.js": "/react-14-cart-page/static/js/main.a90304bb.js",
+    "static/media/logo.svg": "/react-14-cart-page/static/media/logo.4658afbd4f1dae58190cd8b66107d42f.svg",
+    "index.html": "/react-14-cart-page/index.html",
+    "main.6d2b4ff1.css.map": "/react-14-cart-page/static/css/main.6d2b4ff1.css.map",
+    "main.a90304bb.js.map": "/react-14-cart-page/static/js/main.a90304bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d2b4ff1.css",
+    "static/js/main.a90304bb.js"
+  ]
+}
